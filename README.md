@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/joaovictornsv/datatran_files/main/datatran2019
 ```
 https://raw.githubusercontent.com/joaovictornsv/datatran_files/main/datatran2020.csv
 ```
+<br>
 
 ### ⌛ Importando os arquivos
 No seu Jupyter Notebook importe as duas bases de dados da seguinte forma:
@@ -37,6 +38,8 @@ data_2019 = pd.read_csv(filepath_2019, sep=';', encoding='latin-1')
 filepath_2020 = https://raw.githubusercontent.com/joaovictornsv/datatran_files/main/datatran2020.csv
 data_2020 = pd.read_csv(filepath_2020, sep=';', encoding='latin-1')
 ```
+<br>
+
 ### Autor
 <table>
   <tr>
