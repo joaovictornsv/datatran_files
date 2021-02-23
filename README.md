@@ -40,6 +40,8 @@ data_2020 = pd.read_csv(filepath_2020, sep=';', encoding='latin-1')
 ```
 <br>
 
+<div align="center">
+  
 ### Autor
 <table>
   <tr>
@@ -52,3 +54,4 @@ data_2020 = pd.read_csv(filepath_2020, sep=';', encoding='latin-1')
       </td>
   <tr>
 </table>
+</div>
